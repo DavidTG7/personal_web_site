@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/personal_web_site/static/js/main.04b2fc25.js",
+    "static/media/greenBG.png": "/personal_web_site/static/media/greenBG.2a156caec9001129aebd.png",
+    "static/media/underConstruction.png": "/personal_web_site/static/media/underConstruction.6a8f832d110b6a59461e.png",
+    "index.html": "/personal_web_site/index.html",
+    "main.04b2fc25.js.map": "/personal_web_site/static/js/main.04b2fc25.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.04b2fc25.js"
+  ]
+}
